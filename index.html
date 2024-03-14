@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Santos Currency Exchange</title>
+    <link href="./style.css" rel="stylesheet" />
+    <link href="./assets/logo_1.png" rel="shortcut icon" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <main class="main">
+        <img onclick="AparecerConversor()" class="logo1" src="./assets/logo_1.png" alt="logo-site" />
+        <div class="conversor">
+            <section class="section-conversor">
+                <div>
+                    
+                    <label class="label-converter">Converter <b>de</b>
+                        <br>
+                        <select class="current-currency-select">
+                            <option value="real">R$ Real Brasileiro</option>
+                            <option value="dolar">$ Dólar Americano</option>
+                            <option value="euro">€ Euro</option>
+                            <option value="libra">£ Libra</option>
+                            <option value="bitcoin">₿ Bitcoin</option>
+                        </select>
+                    </label>
+                    <br>
+                    <br>
+                    <label class="label-converter">Converter <b>para</b>
+                        <br>
+                        <select class="currency-select-convert">
+                            <option value="dolar">$ Dólar Americano</option>
+                            <option value="real">R$ Real Brasileiro</option>
+                            <option value="euro">€ Euro</option>
+                            <option value="libra">£ Libra</option>
+                            <option value="bitcoin">₿ Bitcoin</option>
+                        </select>
+                    </label>
+                    <br>
+                    <br>
+                    <label class="label-valor">Valor
+                        <br>
+                        <input class="input-currency" placeholder="Digite o valor desejado" />
+                    </label>
+
+                    <br>
+                    <br>
+                    <button class="convert-button">Converter</button>
+
+                    <section class="section-resultado">
+                        <div class="converter-result">
+                            <img class="currency-flag" src="./assets/real.png" alt="logo-moeda-a-converter" />
+                            <p id="current-currency">Real</p>
+                            <p class="currency-value-convert" id="current-currency-value">US$ 0,00</p>
+                        </div>
+
+                        <img id="arrow" src="./assets/arrow.png" alt="seta" />
+
+                        <div class="converter-result">
+                            <img class="result-flag" src="./assets/dolar.png" alt="logo-moeda-convertida" />
+                            <p id="currency-result">Dólar</p>
+                            <p class="currency-value-result">US$ 0,00</p>
+                        </div>
+                    </section>
+
+                    <div class="clock">
+                        <div class="today" id="today">01/01/0101</div>
+                        <div class="time" id="time">12:00:00</div>
+                    </div>
+
+                </div>
+            </section>
+        </div>
+    </main>
+
+</body>
+
+<script src="./scripts.js"></script>
+
+</html>
