@@ -181,8 +181,9 @@ button:active{
         margin-right: auto;
     }
 
-    input{ 
-        touch-action: none; 
+    input[type='text'],
+    input[type='number'],
+    textarea {
+      font-size: 16px;
     }
-    
 }
