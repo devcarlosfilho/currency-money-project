@@ -181,8 +181,8 @@ button:active{
         margin-right: auto;
     }
 
-    input{
-        font-size: 16px;
-      }
+    input{ 
+        touch-action: none; 
+    }
     
 }
