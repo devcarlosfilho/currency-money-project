@@ -180,4 +180,9 @@ button:active{
     .conversor{
         margin-right: auto;
     }
+
+    input{
+        font-size: 16px;
+      }
+    
 }
