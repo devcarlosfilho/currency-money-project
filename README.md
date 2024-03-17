@@ -15,7 +15,7 @@ O usuário deve escolher <b>de</b> qual <b>para</b> qual moeda deseja converter.
 <br>
 <br>
 <div style="display: inline-block"><b>🖥️Tela Inicial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖱️Conversor<b><br>
-<img src="https://github.com/devcarlosfilho/currency-money-project/blob/master/assets/santos_currency_1.png?raw=true" width="504px"/><img src="https://github.com/devcarlosfilho/currency-money-project/blob/master/assets/santos_currency_2.png?raw=true" alt="mobile_resultado" width="504px"/>
+<img src="https://github.com/devcarlosfilho/currency-money-project/blob/master/assets/santos_currency_1.jpeg?raw=true" width="504px"/><img src="https://github.com/devcarlosfilho/currency-money-project/blob/master/assets/santos_currency_2.png?raw=true" alt="mobile_resultado" width="504px"/>
 </div>
 <br>
 <h2>👨‍💻Techs:</h2>
