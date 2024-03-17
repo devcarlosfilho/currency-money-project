@@ -9,13 +9,16 @@ Este é um projeto para fins de aprendizado, desenvolvido para conversão de moe
 conhecimentos que tenho adquirido atravéz da plataforma <strong><a href="https://rodolfomori.com.br/devclub/">DevClub.</a></strong>
 <br>
 <br>
+Projeto responsivo, funcionando tanto para <b>Desktop</b> quanto <b>Mobile</b>.
+<br>
+<br>
 <h3>Como utilizar:</h3>
 Ao carregar a tela inicial, o usuário deverá clicar sobre a imagem com o símbolo 💲, automaticamente o conversor aparecerá deslizando de baixo para cima.
 O usuário deve escolher <b>de</b> qual <b>para</b> qual moeda deseja converter.
 <br>
 <br>
-<div style="display: inline-block"><b>🖥️Tela Inicial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖱️Conversor<b><br>
-<img src="https://github.com/devcarlosfilho/currency-money-project/blob/master/assets/santos_currency_1.jpeg?raw=true" width="504px"/><img src="https://github.com/devcarlosfilho/currency-money-project/blob/master/assets/santos_currency_2.png?raw=true" alt="mobile_resultado" width="504px"/>
+<div align="center" style="display: inline-block"><b>🖥️Tela Inicial&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖱️Conversor<b><br>
+<img src="https://github.com/devcarlosfilho/currency-money-project/blob/master/assets/santos_currency_inicial.png?raw=true" width="300px"/> <img src="https://raw.githubusercontent.com/devcarlosfilho/currency-money-project/df1f7f1677575b255d2df5268d0e62f8587435e1/assets/santos_currency_final.png" width="300.5px"/>
 </div>
 <br>
 <h2>👨‍💻Techs:</h2>
